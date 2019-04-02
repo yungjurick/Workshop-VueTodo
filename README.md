@@ -1,29 +1,3 @@
-# mytodo
+# Vue.js Workshop Small Project - Vue To Do List
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Simple To Do List made using Vue. Intended for an Introduction Workshop on Vue.js at NYU Abu Dhabi.
